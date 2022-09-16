@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WEIYujie1996"
+title                    : "Wei Yujie"
 title_separator          : "-"
-name                     : &name "WEIYujie1996"
+name                     : &name "Wei Yujie"
 description              : &description "PhD student at SJTU and NUS"
 url                      : https://WEIYujie1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
