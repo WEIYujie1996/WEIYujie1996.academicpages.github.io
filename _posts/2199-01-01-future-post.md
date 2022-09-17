@@ -8,4 +8,5 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+This post will show up by default. $$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$ To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+afsdf we are : $\max{a}=2^2 $
