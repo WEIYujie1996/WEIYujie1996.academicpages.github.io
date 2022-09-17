@@ -6,6 +6,7 @@ tags:
   - intelligent manufacturing
   - forum
 ---
+
 # 观后感
 ![](/images/2022-03-30-12-30-32.png)
 ## 上午场
